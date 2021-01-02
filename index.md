@@ -1,6 +1,6 @@
 ---
 title:
-layout: home
+layout: default
 ---
 
 <!-- TODO: Replace all the content below with you own -->
