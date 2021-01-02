@@ -1,5 +1,31 @@
----
-theme: jekyll-theme-cayman
-name: Constantpinger
-markdown: kramdown
----
+### Site metadata ###
+
+title: constantpinger blog
+description: "Base for a static website blog - built with Jekyll and the default theme"
+
+email:
+twitter_username: constantpinger
+github_username: constantpinger
+rss: RSS
+
+### Build settings ###
+
+url: https://constantpinger.github.io
+baseurl: /
+
+theme: cayman
+
+permalink: pretty
+
+exclude:
+  - docs/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - Makefile
+  - README.md
+  - sample*.png
+
+liquid:
+  error_mode: strict
