@@ -13,7 +13,7 @@ rss: RSS
 url: https://constantpinger.github.io
 baseurl: /
 
-theme: cayman
+theme: jekyll-theme-cayman
 
 permalink: pretty
 
