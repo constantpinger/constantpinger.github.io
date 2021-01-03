@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+.
 
 ## About Me
 
