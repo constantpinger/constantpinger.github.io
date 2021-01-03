@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Creating a Blog on GH Pages v Wordpress
 
 This is the first blog style page written within GH Pages and falls around the 4 hour point in the journey to understanding the technology. Upon hearing about the concept I thought this would be a brilliant way to produce content about code I've written or tech battles I've won/lost. I love Github and really like having a personal treasure chest of all the work I've created in one place.
@@ -8,8 +11,4 @@ The reality has been similar to when you spill the ready meal onto your plate ha
 
 
 #### Links
-<dl>
-<dt>Cayman Theme repo</dt>
-<dd>[https://github.com/pages-themes/cayman/](https://github.com/pages-themes/cayman/)</dd>
-</dl>
-[back](./)
+**Cayman Theme repo** [https://github.com/pages-themes/cayman/](https://github.com/pages-themes/cayman/)
