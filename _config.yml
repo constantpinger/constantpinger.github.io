@@ -12,8 +12,8 @@ rss: RSS
 
 url: https://constantpinger.github.io
 baseurl: /
-
-theme: jekyll-theme-cayman
+remote_theme: carlosperate/jekyll-theme-rtd
+#theme: jekyll-theme-cayman
 
 permalink: pretty
 
