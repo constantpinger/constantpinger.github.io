@@ -1,7 +1,7 @@
 ---
 layout: default
-nav_exclude: false
-Title: Home
+nav_exclude: true
+Title: constantpinger
 ---
 
 # Constantpinger Home Page
