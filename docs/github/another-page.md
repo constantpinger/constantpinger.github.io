@@ -9,4 +9,4 @@ search_exclude: false
 ---
 
 some text
-[back](/github/formatting.md)
+[back](/github/formatting.html)
