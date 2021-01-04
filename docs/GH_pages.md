@@ -20,6 +20,6 @@ Things I've learnt that aren't mentioned in the "really really easy guides to ge
 2. You have to learn a new coding technology (jekyll)
 
 
-#### Links
+## Links
 **Cayman Theme repo** [https://github.com/pages-themes/cayman/](https://github.com/pages-themes/cayman/)
 **Great port of Read the Docs into GH Pages**[https://www.embeddedlog.com/jekyll-theme-rtd/](https://www.embeddedlog.com/jekyll-theme-rtd/)
