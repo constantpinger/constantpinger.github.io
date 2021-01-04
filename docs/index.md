@@ -3,8 +3,7 @@ layout: default
 nav_exclude: true
 ---
 
-#### [Formatting Examples](./example.md)
-
+#### [Formatting Examples](./github/formatting.md)
 
 
 #### [Creating a Blog on GH Pages v Wordpress](./GH_pages/)
