@@ -3,13 +3,9 @@ layout: default
 title: GH Pages v Wordpress 
 excerpt: The reality of 'really easy' websites
 nav_order: 1
-nav_exclude: false
-canonical_url: https://www.google.com
-search_exclude: false
 ---
 
 
- 
 # Creating a Blog on Github Pages v Wordpress
 
 This is the first page written within [Github Pages](https://pages.github.com/) and falls around the 4 hour point in the journey to understanding the technology. Upon hearing about the concept I thought this would be a brilliant way to produce content about code I've written or tech battles I've won/lost. I love Github and really like having a personal treasure chest of all the work I've created in one place.
