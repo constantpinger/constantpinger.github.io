@@ -1,7 +1,12 @@
 ---
-layout: default
-title: constantpinger 
+title: GH Pages v Wordpress 
+excerpt: The reality of 'really easy' websites
+nav_order: 4
+nav_exclude: false
+canonical_url: https://www.google.com
+search_exclude: false
 ---
+
 
  
 # Creating a Blog on Github Pages v Wordpress
