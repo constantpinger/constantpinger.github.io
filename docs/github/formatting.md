@@ -1,4 +1,6 @@
 ---
+layout: default
+title: GH Pages Formatting
 excerpt: Github Pages formatting examples
 nav_order: 4
 nav_exclude: false
