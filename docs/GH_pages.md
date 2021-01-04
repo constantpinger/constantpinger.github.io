@@ -1,4 +1,5 @@
 ---
+layout: default
 title: GH Pages v Wordpress 
 excerpt: The reality of 'really easy' websites
 nav_order: 4
