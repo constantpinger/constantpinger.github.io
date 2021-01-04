@@ -11,7 +11,7 @@ This is the first page written within [Github Pages](https://pages.github.com/) 
 
 The reality has been similar to when you spill the ready meal onto your plate having slavoured over the delicious picture on the packaging for the 4 minues of microwaving. Not exactly what I was hoping for and far from what I had read in the how-to docs.
 
-#### What is Github Pages
+## What is Github Pages
 You are reading text on a webpage but unlike most content it wasn't written on a traditional web platform such as wordpress or written in HTML. Github pages provides a neat way to create static web pages directly from user's repositories. By creating a repo named <username>.github.io you automatically have a very simple website.
 
 
