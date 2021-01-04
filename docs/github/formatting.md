@@ -7,7 +7,7 @@ nav_exclude: false
 canonical_url: https://www.google.com
 search_exclude: false
 ---
-# GH Pages Formatting
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
