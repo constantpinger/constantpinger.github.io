@@ -1,10 +1,15 @@
 ---
 layout: default
-nav_exclude: true
+nav_exclude: false
+Title: Home
 ---
 
-#### [Formatting Examples](./github/formatting.md)
+# Constantpinger Home Page
+Welcome to the Github Pages site for constantpinger
 
 
-#### [Creating a Blog on GH Pages v Wordpress](./GH_pages.md)
+##[Formatting Examples](./github/formatting.md)**
+A page of formatting possibilities within GH Pages
+
+## [Creating a Blog on GH Pages v Wordpress](./GH_pages.md)
 A post about my first experience with Github Pages and questions about how viable a platform it is
