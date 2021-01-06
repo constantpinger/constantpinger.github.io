@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Raritan PX1 Command Line
 nav_order: 1
 nav_exclude: false
 canonical_url: https://www.google.com
